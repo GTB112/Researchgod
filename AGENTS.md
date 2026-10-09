@@ -3,7 +3,7 @@
 researchgod turns research evidence into program decisions that can be defended: for each site and priority need,
 a short decision brief whose every sentence traces to a study or an interview excerpt. It is not a meta-analysis tool
 and does not rank papers. The plan is [docs/PLAN.md](docs/PLAN.md); the module contracts are
-[docs/SPEC.md](docs/SPEC.md).
+[docs/SPEC.md](docs/SPEC.md). Status, the owner's settings and what is left: [docs/HANDOFF.md](docs/HANDOFF.md).
 
 ## Rules the code must keep
 
