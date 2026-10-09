@@ -28,7 +28,7 @@ the conversation that built the first version.
 | Store | `src/dedupe.js` (upsertWork, logSearch), `src/store.js` (JSONL export/import) | Done |
 | Outputs | `src/review.js` (CSV round trip, kappa), `src/fieldmap.js`, `src/brief.js` (trace check) | Done |
 | Full text | `src/fetch.js` (paced downloads, BC link queue), `src/ingest.js` (PDF text, inbox matching) | Done |
-| Sources, importers | `src/sources/*`, `src/importers/*` | See git log: committed if finished in the cloud session |
+| Sources, importers | `src/sources/*`, `src/importers/*` | Done. OpenAlex and Semantic Scholar fixtures follow their documented shape (rate-limited during the build); check field mapping on the first live run, and the OpenAlex `cites:` filter and ERIC year syntax |
 
 Choices the builders made where the spec was silent:
 
@@ -48,7 +48,7 @@ Choices the builders made where the spec was silent:
 
 1. **Re-running extraction appends rows.** Before `extractWork` runs again for a work and question, delete that pair's
    earlier model rows (keep rows a person verified).
-2. If the sources and importers commit is missing, rebuild them from `docs/SPEC.md` ("Sources", "Importers").
+2. A `.txt` import with no RIS `TY` tag is treated as BibTeX if it looks like one. Titles have markup stripped in the sources, not in `makeWork`.
 
 ## What is left (in order)
 
@@ -72,7 +72,7 @@ Choices the builders made where the spec was silent:
 ```bash
 git clone https://github.com/GTB112/researchgod && cd researchgod
 git checkout claude/charming-ramanujan-3jroa1   # until PR #1 is merged
-npm install && npm test                         # Node 22.13 or newer
+npm install && npm test                         # Node 22.13 or newer; 77 tests
 ```
 
 Then ask the local agent: "Read AGENTS.md and docs/HANDOFF.md, then build 'What is left' item 1."

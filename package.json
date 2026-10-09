@@ -7,7 +7,7 @@
   "bin": { "rgod": "bin/rgod.js" },
   "engines": { "node": ">=22.13" },
   "scripts": {
-    "test": "node --no-warnings --test test/"
+    "test": "node --no-warnings --test \"test/*.test.js\""
   },
   "dependencies": {
     "exceljs": "^4.4.0",

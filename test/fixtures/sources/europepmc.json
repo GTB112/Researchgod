@@ -1,0 +1,598 @@
+{
+  "version": "6.9",
+  "hitCount": 144776,
+  "nextCursorMark": "AoIIQV9uUig1NTQ2NDA0OQ==",
+  "nextPageUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=machine+learning+education&cursorMark=AoIIQV9uUig1NTQ2NDA0OQ%3D%3D&resultType=core&pageSize=2&format=json",
+  "request": {
+    "queryString": "machine learning education",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 2,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "41461109",
+        "source": "MED",
+        "pmid": "41461109",
+        "pmcid": "PMC12747659",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12747659"
+          ]
+        },
+        "doi": "10.2196/83154",
+        "title": "Fostering Multidisciplinary Collaboration in Artificial Intelligence and Machine Learning Education: Tutorial Based on the AI-READI Bootcamp.",
+        "authorString": "Nishihara TW, Kalaw FGP, Engmann A, Motoyoshi A, Mensah-Kane P, Gupta D, Patronilo V, Zangwill LM, Hallaj S, Panahi A, Cottrell GW, Voytek B, de Sa VR, Baxter SL.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Nishihara TW",
+              "lastName": "Nishihara",
+              "firstName": "Taiki W",
+              "initials": "TW",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1081-6180"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, Hamilton Glaucoma Center, Division of Ophthalmology Informatics and Data Science, University of California, San Diego, 9415 Campus Point Drive, La Jolla, CA, 92093, United States, 1 858-534-8413."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kalaw FGP",
+              "lastName": "Kalaw",
+              "firstName": "Fritz Gerald P",
+              "initials": "FGP",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3940-2272"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, Hamilton Glaucoma Center, Division of Ophthalmology Informatics and Data Science, University of California, San Diego, 9415 Campus Point Drive, La Jolla, CA, 92093, United States, 1 858-534-8413."
+                  },
+                  {
+                    "affiliation": "Department of Medicine, Division of Biomedical Informatics, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Engmann A",
+              "lastName": "Engmann",
+              "firstName": "Adelle",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0006-1015-2712"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Stanford Deep Data Research Center, Department of Genetics, Stanford University, Palo Alto, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Motoyoshi A",
+              "lastName": "Motoyoshi",
+              "firstName": "Aya",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0008-3004-1627"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Ophthalmology, University of Washington, Seattle, WA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Mensah-Kane P",
+              "lastName": "Mensah-Kane",
+              "firstName": "Paapa",
+              "initials": "P",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0005-9471-2256"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Pharmacy, South University, Savannah, GA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Gupta D",
+              "lastName": "Gupta",
+              "firstName": "Deepa",
+              "initials": "D",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7263-0891"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Cognitive Science, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Patronilo V",
+              "lastName": "Patronilo",
+              "firstName": "Victoria",
+              "initials": "V",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3504-6514"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, Hamilton Glaucoma Center, Division of Ophthalmology Informatics and Data Science, University of California, San Diego, 9415 Campus Point Drive, La Jolla, CA, 92093, United States, 1 858-534-8413."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zangwill LM",
+              "lastName": "Zangwill",
+              "firstName": "Linda M",
+              "initials": "LM",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1143-5224"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, Hamilton Glaucoma Center, Division of Ophthalmology Informatics and Data Science, University of California, San Diego, 9415 Campus Point Drive, La Jolla, CA, 92093, United States, 1 858-534-8413."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hallaj S",
+              "lastName": "Hallaj",
+              "firstName": "Shahin",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9541-1915"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, Hamilton Glaucoma Center, Division of Ophthalmology Informatics and Data Science, University of California, San Diego, 9415 Campus Point Drive, La Jolla, CA, 92093, United States, 1 858-534-8413."
+                  },
+                  {
+                    "affiliation": "Department of Medicine, Division of Biomedical Informatics, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Panahi A",
+              "lastName": "Panahi",
+              "firstName": "Amirhossein",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4624-1219"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Halıcıoğlu Data Science Institute, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cottrell GW",
+              "lastName": "Cottrell",
+              "firstName": "Garrison W",
+              "initials": "GW",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7538-1715"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Computer Science and Engineering, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Voytek B",
+              "lastName": "Voytek",
+              "firstName": "Bradley",
+              "initials": "B",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1640-2525"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Cognitive Science, University of California, San Diego, La Jolla, CA, United States."
+                  },
+                  {
+                    "affiliation": "Halıcıoğlu Data Science Institute, University of California, San Diego, La Jolla, CA, United States."
+                  },
+                  {
+                    "affiliation": "Neurosciences Graduate Program, University of California, San Diego, La Jolla, CA, United States."
+                  },
+                  {
+                    "affiliation": "Kavli Institute for Brain and Mind, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "de Sa VR",
+              "lastName": "de Sa",
+              "firstName": "Virginia R",
+              "initials": "VR",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0989-3576"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Cognitive Science, University of California, San Diego, La Jolla, CA, United States."
+                  },
+                  {
+                    "affiliation": "Halıcıoğlu Data Science Institute, University of California, San Diego, La Jolla, CA, United States."
+                  },
+                  {
+                    "affiliation": "Neurosciences Graduate Program, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Baxter SL",
+              "lastName": "Baxter",
+              "firstName": "Sally L",
+              "initials": "SL",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5271-7690"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, Hamilton Glaucoma Center, Division of Ophthalmology Informatics and Data Science, University of California, San Diego, 9415 Campus Point Drive, La Jolla, CA, 92093, United States, 1 858-534-8413."
+                  },
+                  {
+                    "affiliation": "Department of Medicine, Division of Biomedical Informatics, University of California, San Diego, La Jolla, CA, United States."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7538-1715"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-0989-3576"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1081-6180"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1143-5224"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3504-6514"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3940-2272"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4624-1219"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-5271-7690"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-7263-0891"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9541-1915"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-1640-2525"
+            },
+            {
+              "type": "ORCID",
+              "value": "0009-0005-9471-2256"
+            },
+            {
+              "type": "ORCID",
+              "value": "0009-0006-1015-2712"
+            },
+            {
+              "type": "ORCID",
+              "value": "0009-0008-3004-1627"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "volume": "11",
+          "journalIssueId": 4060714,
+          "dateOfPublication": "2025 Dec",
+          "monthOfPublication": 12,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "JMIR Med Educ",
+            "title": "JMIR medical education",
+            "essn": "2369-3762",
+            "issn": "2369-3762",
+            "isoabbreviation": "JMIR Med Educ",
+            "nlmid": "101684518"
+          },
+          "printPublicationDate": "2025-12-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "e83154",
+        "abstractText": "<h4>Background</h4>The integration of artificial intelligence (AI) and machine learning (ML) into biomedical research requires a workforce fluent in both computational methods and clinical applications. Structured, interdisciplinary training opportunities remain limited, creating a gap between data scientists and clinicians. The National Institutes of Health's Bridge to Artificial Intelligence (Bridge2AI) initiative launched the Artificial Intelligence-Ready and Exploratory Atlas for Diabetes Insights (AI-READI) data generation project to address this gap. AI-READI is creating a multimodal, FAIR (findable, accessible, interoperable, and reusable) dataset-including ophthalmic imaging, physiologic measurements, wearable sensor data, and survey responses-from approximately 4000 participants with or at risk for type 2 diabetes. In parallel, AI-READI established a year-long mentored research program that begins with a 2-week immersive summer bootcamp to provide foundational AI/ML skills grounded in domain-relevant biomedical data.<h4>Objective</h4>To describe the design, iterative refinement, and outcomes of the AI-READI Bootcamp, and to share lessons for creating future multidisciplinary AI/ML training programs in biomedical research.<h4>Methods</h4>Held annually at the University of California San Diego, the bootcamp combines 80 hours of lectures, coding sessions, and small-group mentorship. Year 1 introduced Python programming, classical ML techniques (eg, logistic regression, convolutional neural networks), and data science methods, such as principal component analysis and clustering, using public datasets. In Year 2, the curriculum was refined based on structured participant feedback-reducing cohort size to increase individualized mentorship, integrating the AI-READI dataset (including retinal images and structured clinical variables), and adding modules on large language models and FAIR data principles. Participant characteristics and satisfaction were assessed through standardized pre- and postbootcamp surveys, and qualitative feedback was analyzed thematically by independent coders.<h4>Results</h4>Seventeen participants attended Year 1 and 7 attended Year 2, with an instructor-to-student ratio of approximately 1:2 in the latter. Across both years, postbootcamp evaluations indicated high satisfaction, with Year 2 participants reporting improved experiences due to smaller cohorts, earlier integration of the AI-READI dataset, and greater emphasis on applied learning. In Year 2, mean scores for instructor effectiveness, staff support, and overall enjoyment were perfect (5.00/5.00). Qualitative feedback emphasized the value of working with domain-relevant, multimodal datasets; the benefits of peer collaboration; and the applicability of skills to structured research projects during the subsequent internship year.<h4>Conclusions</h4>The AI-READI Bootcamp illustrates how feedback-driven, multidisciplinary training embedded within a longitudinal mentored research program can bridge technical and clinical expertise in biomedical AI. Core elements-diverse trainee cohorts, applied learning with biomedical datasets, and sustained mentorship-offer a replicable model for preparing health professionals for the evolving AI/ML landscape. Future iterations will incorporate additional prebootcamp onboarding modules, objective skill assessments, and long-term tracking of research engagement and productivity.",
+        "affiliation": "Viterbi Family Department of Ophthalmology and Shiley Eye Institute, Hamilton Glaucoma Center, Division of Ophthalmology Informatics and Data Science, University of California, San Diego, 9415 Campus Point Drive, La Jolla, CA, 92093, United States, 1 858-534-8413.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "NLM NIH HHS",
+              "acronym": "LM",
+              "grantId": "T15 LM011271",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIH HHS",
+              "acronym": "OD",
+              "grantId": "OT2 OD032644",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Diabetes Mellitus, Type 2"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Biomedical Research",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ED",
+                    "qualifierName": "education"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Artificial Intelligence"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "United States"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Machine Learning"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Artificial intelligence",
+            "Medical education",
+            "Biomedical Research",
+            "Translational Research",
+            "Curriculum Development",
+            "Machine Learning",
+            "Data Science",
+            "Interdisciplinary Training"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.2196/83154"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12747659"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12747659?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2025-12-29",
+        "dateOfCreation": "2025-12-29",
+        "dateOfRevision": "2026-09-17",
+        "electronicPublicationDate": "2025-12-29",
+        "firstPublicationDate": "2025-12-29",
+        "firstIndexDate": "2026-01-02",
+        "fullTextReceivedDate": "2025-12-30",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "PPR1197513",
+        "source": "PPR",
+        "doi": "10.22541/au.174595459.99720502/v1",
+        "title": "Toward Intuitive and Accessible Machine Learning Education: A Structured Pythonic Pseudocode Approach",
+        "authorString": "Lazic H.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Lazic H",
+              "lastName": "Lazic",
+              "firstName": "Hadrian",
+              "initials": "H"
+            }
+          ]
+        },
+        "pubYear": "2025",
+        "abstractText": "The traditional reliance on compressed mathematical notation in machine learning, particularly in calculus-intensive domains such as optimization, presents significant cognitive barriers for both practitioners and students. Core methodologies, such as the Adam optimizer, are widely used in applied settings but are often introduced through dense symbolic expressions that obscure foundational intuitions and hinder practical comprehension. This work proposes a rearticulation of foundational machine learning concepts-including derivatives, gradients, and optimization algorithms, using an intuitive, Pythonic pseudocode paradigm, supported by annotated visual exemplars. By replacing abstract mathematical formalism with codeoriented, formula, inspired explanations, the proposed framework enhances conceptual transparency, operational clarity, and pedagogical accessibility. The overarching goal is to empower developers-particularly those without formal training in advanced mathematics-to internalize, implement, and extend key machine learning constructs with confidence and rigor. In democratizing theoretical understanding, this work seeks to broaden participation in machine learning research and development, fostering a more diverse and interdisciplinary technical community.",
+        "pubTypeList": {
+          "pubType": [
+            "Preprint"
+          ]
+        },
+        "bookOrReportDetails": {
+          "publisher": "Authorea Preprints",
+          "yearOfPublication": 2025
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.22541/au.174595459.99720502/v1"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2026-05-13",
+        "firstPublicationDate": "2025-04-29",
+        "firstIndexDate": "2026-05-13",
+        "versionList": {
+          "version": [
+            {
+              "id": "PPR1197513",
+              "source": "PPR",
+              "versionNumber": 1,
+              "firstPublishDate": "2025-04-29",
+              "pubTypeList": {
+                "pubType": [
+                  "preprint"
+                ]
+              },
+              "hasEvaluations": "N"
+            }
+          ]
+        },
+        "versionNumber": 1,
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

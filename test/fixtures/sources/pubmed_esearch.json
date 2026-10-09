@@ -1,0 +1,26 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "27799",
+    "retmax": "2",
+    "retstart": "0",
+    "idlist": [
+      "42849043",
+      "42848157"
+    ],
+    "translationset": [
+      {
+        "from": "machine learning",
+        "to": "\"machine learning\"[MeSH Terms] OR (\"machine\"[All Fields] AND \"learning\"[All Fields]) OR \"machine learning\"[All Fields]"
+      },
+      {
+        "from": "education",
+        "to": "\"educability\"[All Fields] OR \"educable\"[All Fields] OR \"educates\"[All Fields] OR \"education\"[Subheading] OR \"education\"[All Fields] OR \"educational status\"[MeSH Terms] OR (\"educational\"[All Fields] AND \"status\"[All Fields]) OR \"educational status\"[All Fields] OR \"education\"[MeSH Terms] OR \"education's\"[All Fields] OR \"educational\"[All Fields] OR \"educative\"[All Fields] OR \"educator\"[All Fields] OR \"educator's\"[All Fields] OR \"educators\"[All Fields] OR \"teaching\"[MeSH Terms] OR \"teaching\"[All Fields] OR \"educate\"[All Fields] OR \"educated\"[All Fields] OR \"educating\"[All Fields] OR \"educations\"[All Fields]"
+      }
+    ],
+    "querytranslation": "(\"machine learning\"[MeSH Terms] OR (\"machine\"[All Fields] AND \"learning\"[All Fields]) OR \"machine learning\"[All Fields]) AND (\"educability\"[All Fields] OR \"educable\"[All Fields] OR \"educates\"[All Fields] OR \"education\"[MeSH Subheading] OR \"education\"[All Fields] OR \"educational status\"[MeSH Terms] OR (\"educational\"[All Fields] AND \"status\"[All Fields]) OR \"educational status\"[All Fields] OR \"education\"[MeSH Terms] OR \"education s\"[All Fields] OR \"educational\"[All Fields] OR \"educative\"[All Fields] OR \"educator\"[All Fields] OR \"educator s\"[All Fields] OR \"educators\"[All Fields] OR \"teaching\"[MeSH Terms] OR \"teaching\"[All Fields] OR \"educate\"[All Fields] OR \"educated\"[All Fields] OR \"educating\"[All Fields] OR \"educations\"[All Fields])"
+  }
+}

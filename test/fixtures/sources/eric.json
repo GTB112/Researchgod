@@ -1,0 +1,78 @@
+{
+  "response": {
+    "numFound": 1646085,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "id": "EJ1449081",
+        "title": "Understanding Machine Translation Fit for Language Learning: The Mediating Effect of Machine Translation Literacy",
+        "author": [
+          "Yanxia Yang"
+        ],
+        "description": "The use of machine translation has become a topic of debate in language learning, which highlights the need to thoroughly examine the appropriateness and role of machine translation in educational settings. Under the theoretical framework of task-technology fit, this explanatory case study set out to investigate the predictive role of machine translation fit, based on questionnaire responses obtained from a sample of 500 Chinese university EFL learners. Structural Equation Modeling approach was used to address the relationship between machine translation fit and learning performance, as well as the impact of technology and task characteristics on machine translation fit. The mediating role of machine translation literacy was further investigated in these relationships. The results showed that machine translation fit had a significant positive effect on learning performance. Both technology and task characteristics positively impacted machine translation fit. Meanwhile, machine translation literacy mediated the relationship between task characteristics and machine translation fit, but not technology characteristics and machine translation fit. This study has highlighted the significance of machine translation fit for language learning, providing suggestions and implications for integrating machine translation into language instructional practices.",
+        "subject": [
+          "Translation",
+          "Computational Linguistics",
+          "Learning Processes",
+          "English (Second Language)",
+          "Computer Software",
+          "Second Language Learning",
+          "Second Language Instruction",
+          "College Students",
+          "Task Analysis",
+          "Goodness of Fit",
+          "Foreign Countries",
+          "Student Attitudes",
+          "Correlation",
+          "Technological Literacy",
+          "Language Processing"
+        ],
+        "publicationtype": [
+          "Journal Articles",
+          "Reports - Research"
+        ],
+        "publicationdateyear": 2024,
+        "language": [
+          "English"
+        ],
+        "issn": [
+          "ISSN-1360-2357"
+        ],
+        "publisher": "Springer. Available from: Springer Nature. One New York Plaza, Suite 4600, New York, NY 10004. Tel: 800-777-4643; Tel: 212-460-1500; Fax: 212-460-1700; e-mail: customerservice@springernature.com; Web site: https://link.springer.com/",
+        "peerreviewed": "T"
+      },
+      {
+        "id": "EJ1320040",
+        "title": "Machine Learning and Small Data",
+        "author": [
+          "Cui, Zhongmin"
+        ],
+        "description": "Commonly used machine learning applications seem to relate to big data. This article provides a gentle review of machine learning and shows why machine learning can be applied to small data too. An example of applying machine learning to screen irregularity reports is presented. In the example, the support vector machine and multinomial naïve Bayes methods were used and compared. The performance of machine learning was compared to human experts in terms of flagging records to be excluded from equating. The application of machine learning seemed to be successful, although the data only consisted of a couple of thousand records. Recommendations in using machine learning are provided.",
+        "subject": [
+          "Artificial Intelligence",
+          "Man Machine Systems",
+          "Data",
+          "Bayesian Statistics",
+          "Program Effectiveness",
+          "Sampling",
+          "Equated Scores"
+        ],
+        "publicationtype": [
+          "Journal Articles",
+          "Opinion Papers",
+          "Reports - Descriptive"
+        ],
+        "publicationdateyear": 2021,
+        "language": [
+          "English"
+        ],
+        "issn": [
+          "ISSN-0731-1745"
+        ],
+        "publisher": "Wiley. Available from: John Wiley & Sons, Inc. 111 River Street, Hoboken, NJ 07030. Tel: 800-835-6770; e-mail: cs-journals@wiley.com; Web site: https://www.wiley.com/en-us",
+        "peerreviewed": "T"
+      }
+    ]
+  }
+}

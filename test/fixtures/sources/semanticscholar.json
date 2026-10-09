@@ -1,0 +1,62 @@
+{
+  "total": 2,
+  "offset": 0,
+  "next": 2,
+  "data": [
+    {
+      "paperId": "a1b2c3d4e5f60718293a4b5c6d7e8f9012345678",
+      "url": "https://www.semanticscholar.org/paper/a1b2c3d4e5f60718293a4b5c6d7e8f9012345678",
+      "title": "Adaptive tutoring systems and feedback quality",
+      "abstract": "Adaptive tutoring systems use machine learning to personalize feedback.",
+      "venue": "Journal of Learning Analytics",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "1001",
+          "name": "Mei Lin"
+        },
+        {
+          "authorId": "1002",
+          "name": "Omar Haddad"
+        }
+      ],
+      "externalIds": {
+        "DOI": "10.9999/rgod.fixture.2",
+        "PubMed": "34000002",
+        "PubMedCentral": "9000002",
+        "CorpusId": 123456
+      },
+      "openAccessPdf": {
+        "url": "https://example.org/oa/s2-fixture.pdf",
+        "status": "GREEN"
+      },
+      "publicationTypes": [
+        "JournalArticle"
+      ],
+      "fieldsOfStudy": [
+        "Computer Science",
+        "Education"
+      ],
+      "citationCount": 12
+    },
+    {
+      "paperId": "ffeeddccbbaa00112233445566778899aabbccdd",
+      "url": "https://www.semanticscholar.org/paper/ffeeddccbbaa00112233445566778899aabbccdd",
+      "title": "Feedback loops in online courses",
+      "abstract": null,
+      "venue": "",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "1003",
+          "name": "Sam Ruiz"
+        }
+      ],
+      "externalIds": {},
+      "openAccessPdf": null,
+      "publicationTypes": null,
+      "fieldsOfStudy": null,
+      "citationCount": 0
+    }
+  ]
+}
