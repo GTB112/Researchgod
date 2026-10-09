@@ -5,3 +5,7 @@ pdfs/
 fulltext/
 interviews/
 .env
+config.json
+inbox/
+queue.html
+*.xlsx

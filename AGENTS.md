@@ -2,7 +2,8 @@
 
 researchgod turns research evidence into program decisions that can be defended: for each site and priority need,
 a short decision brief whose every sentence traces to a study or an interview excerpt. It is not a meta-analysis tool
-and does not rank papers. The plan is [docs/PLAN.md](docs/PLAN.md).
+and does not rank papers. The plan is [docs/PLAN.md](docs/PLAN.md); the module contracts are
+[docs/SPEC.md](docs/SPEC.md).
 
 ## Rules the code must keep
 
@@ -23,10 +24,12 @@ and does not rank papers. The plan is [docs/PLAN.md](docs/PLAN.md).
 8. **No PDFs or full paper text in git.** Only extracted fields and short quotes.
 9. **Downloads are paced and capped** (one a minute at most; open-access sources first; a daily cap per publisher;
    stop at any person-check or warning page). Never disguise the downloader.
+10. **Spend little.** The owner is on Claude Pro: bulk model work goes to Mistral's free tier; every model call is
+   logged in `usage`; each run stops at its call budget.
 
 ## Verify what you changed
 
-Run the checks (`npm test` once it exists). The trace check must pass: every sentence of a decision brief cites a
+Run `npm test`. The trace check must pass: every sentence of a decision brief cites a
 study row or an interview excerpt, and every quote is found in its source. Say what you verified and what you did not.
 
 ## Working style

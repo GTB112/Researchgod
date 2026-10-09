@@ -1,0 +1,16 @@
+{
+  "name": "researchgod",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Research tool: search, screen, extract with quotes, field maps and traceable decision briefs",
+  "bin": { "rgod": "bin/rgod.js" },
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "test": "node --no-warnings --test test/"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "pdfjs-dist": "^6.4.299"
+  }
+}
