@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "count": 412,
+    "db_response_time_ms": 12,
+    "page": null,
+    "per_page": 2,
+    "next_cursor": "IlsyMDIxLTAxLTAxIiwiVzIxMDAwMDAwMDIiXQ=="
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2100000001",
+      "doi": "https://doi.org/10.9999/rgod.fixture.1",
+      "title": "Adaptive tutoring systems and feedback quality",
+      "display_name": "Adaptive tutoring systems and feedback quality",
+      "publication_year": 2021,
+      "type": "article",
+      "language": "en",
+      "cited_by_count": 37,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A1",
+            "display_name": "Mei Lin",
+            "orcid": null
+          },
+          "institutions": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A2",
+            "display_name": "Omar Haddad",
+            "orcid": null
+          },
+          "institutions": []
+        }
+      ],
+      "abstract_inverted_index": {
+        "Adaptive": [
+          0
+        ],
+        "classroom.": [
+          18
+        ],
+        "engagement": [
+          15
+        ],
+        "feedback.": [
+          8
+        ],
+        "improve": [
+          14
+        ],
+        "in": [
+          16
+        ],
+        "learning": [
+          5
+        ],
+        "machine": [
+          4
+        ],
+        "personalize": [
+          7
+        ],
+        "report": [
+          10
+        ],
+        "systems": [
+          2,
+          13
+        ],
+        "Teachers": [
+          9
+        ],
+        "that": [
+          11
+        ],
+        "the": [
+          12,
+          17
+        ],
+        "to": [
+          6
+        ],
+        "tutoring": [
+          1
+        ],
+        "use": [
+          3
+        ]
+      },
+      "primary_location": {
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.9999/rgod.fixture.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S1",
+          "display_name": "Computers & Education",
+          "type": "journal"
+        }
+      },
+      "best_oa_location": {
+        "is_oa": true,
+        "landing_page_url": "https://example.org/oa/adaptive-tutoring",
+        "pdf_url": "https://example.org/oa/adaptive-tutoring.pdf",
+        "source": null
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T1",
+          "display_name": "Intelligent Tutoring Systems"
+        },
+        {
+          "id": "https://openalex.org/T2",
+          "display_name": "Educational Technology"
+        }
+      ],
+      "ids": {
+        "openalex": "https://openalex.org/W2100000001",
+        "doi": "https://doi.org/10.9999/rgod.fixture.1",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/34000001"
+      },
+      "referenced_works": [
+        "https://openalex.org/W2000000001",
+        "https://openalex.org/W2000000002"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2100000002",
+      "doi": null,
+      "title": "Feedback loops in online courses",
+      "display_name": "Feedback loops in online courses",
+      "publication_year": 2019,
+      "type": "article",
+      "language": "en",
+      "cited_by_count": 4,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A3",
+            "display_name": "Sam Ruiz",
+            "orcid": null
+          },
+          "institutions": []
+        }
+      ],
+      "abstract_inverted_index": null,
+      "primary_location": {
+        "is_oa": false,
+        "landing_page_url": null,
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2",
+          "display_name": "Journal of Learning Analytics",
+          "type": "journal"
+        }
+      },
+      "best_oa_location": null,
+      "topics": [],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C1",
+          "display_name": "Education",
+          "level": 0,
+          "score": 0.8
+        }
+      ],
+      "ids": {
+        "openalex": "https://openalex.org/W2100000002"
+      },
+      "referenced_works": []
+    }
+  ]
+}

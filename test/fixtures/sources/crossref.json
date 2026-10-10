@@ -1,0 +1,1778 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2344432,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              14
+            ]
+          ],
+          "date-time": "2026-08-14T21:34:33Z",
+          "timestamp": 1786743273765,
+          "version": "build-2736575974"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "group-title": "SSRN",
+        "reference-count": 149,
+        "publisher": "Elsevier BV",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<jats:p>This study explores machine learning's role in multicultural education, identifying benefits and challenges, and offering practical recommendations for effective implementation. It aims to cultivate inclusivity, empathy, and mutual understanding in a diverse society. The research uses a library research methodology to analyze existing literature from academic journals, books, and reports, providing case studies and practical examples to demonstrate the application of machine learning in multicultural education. Machine learning can improve multicultural education by personalizing learning experiences and adapting content to diverse backgrounds, but challenges like algorithmic bias, inadequate educator training, and resource limitations need to be addressed. This research explores the integration of machine learning (ML) in multicultural education, offering practical insights and recommendations for promoting inclusivity and equity in diverse educational settings.</jats:p>",
+        "DOI": "10.2139/ssrn.4885996",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2024-07-11T09:24:52Z",
+          "timestamp": 1720689892000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Machine Learning in Multicultural Education"
+        ],
+        "prefix": "10.2139",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9505-6354",
+            "authenticated-orcid": true,
+            "given": "Dwi",
+            "family": "Mariyono",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "2",
+            "key": "ref1",
+            "article-title": "A Comprehensive Social Impact Analysis of Technological Advancements in Education: Bridging or Broadening Gaps",
+            "volume": "6",
+            "author": "R M",
+            "year": "2024",
+            "journal-title": "International Journal For Multidisciplinary Research"
+          },
+          {
+            "issue": "1",
+            "key": "ref2",
+            "first-page": "159",
+            "article-title": "Multicultural Education in Early Childhood: Issues and Challenges",
+            "volume": "12",
+            "author": "A C Abdullah",
+            "year": "2009",
+            "journal-title": "Journal of International Cooperation in Education"
+          },
+          {
+            "issue": "11",
+            "key": "ref3",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0293061",
+            "article-title": "Role of convolutional features and machine learning for predicting student academic performance from MOODLE data",
+            "volume": "18",
+            "author": "N Abuzinadah",
+            "year": "2023",
+            "journal-title": "PLOS ONE"
+          },
+          {
+            "issue": "2",
+            "key": "ref4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.4018/jicte.2011040101",
+            "article-title": "Culturally Different Learning Styles in Online Learning Environments",
+            "volume": "7",
+            "author": "B F Adeoye",
+            "year": "2011",
+            "journal-title": "International Journal of Information and Communication Technology Education"
+          },
+          {
+            "key": "ref5",
+            "author": "V Adolf",
+            "year": "2022",
+            "journal-title": "Monitoring the digital educational environment in the context of education transformation"
+          },
+          {
+            "issue": "2",
+            "key": "ref6",
+            "doi-asserted-by": "crossref",
+            "first-page": "174",
+            "DOI": "10.1080/09515070.2013.793046",
+            "article-title": "Barriers and challenges in the practice of multicultural counselling in Malaysia: A qualitative interview study",
+            "volume": "26",
+            "author": "Aga Mohd Jaladin",
+            "year": "2013",
+            "journal-title": "Counselling Psychology Quarterly"
+          },
+          {
+            "key": "ref7",
+            "article-title": "Socio Cultural Challenges Faced by Transgender: A Study of Islamabad",
+            "author": "M Akram",
+            "year": "2023",
+            "journal-title": "Global Political Review"
+          },
+          {
+            "issue": "13",
+            "key": "ref8",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3991/ijoe.v16i13.18609",
+            "article-title": "Big Data Analytics in Healthcare using Machine Learning Algorithms: A Comparative Study",
+            "volume": "16",
+            "author": "S H Akundi",
+            "year": "2020",
+            "journal-title": "International Journal of Online and Biomedical Engineering (IJOE)"
+          },
+          {
+            "issue": "4",
+            "key": "ref9",
+            "doi-asserted-by": "crossref",
+            "first-page": "192",
+            "DOI": "10.36892/ijlls.v5i4.1488",
+            "article-title": "The Representation of Multicultural Content Provided by \"World-Class Franchise\" English Course Textbook Used in Indonesia: A Critical Discourse Analysis Study",
+            "volume": "5",
+            "author": "S A S M Alawlaqi",
+            "year": "2023",
+            "journal-title": "International Journal of Language and Literary Studies"
+          },
+          {
+            "issue": "9",
+            "key": "ref10",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3390/educsci11090552",
+            "article-title": "A Systematic Literature Review of Student' Performance Prediction Using Machine Learning Techniques",
+            "volume": "11",
+            "author": "B Albreiki",
+            "year": "2021",
+            "journal-title": "Education Sciences"
+          },
+          {
+            "issue": "1",
+            "key": "ref11",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.5121/ije.2024.12103",
+            "article-title": "The Formation of Intercultural Communication Competence of Future English Teachers",
+            "volume": "12",
+            "author": "A A H Albuhmedee",
+            "year": "2024",
+            "journal-title": "International Journal of Education (IJE)"
+          },
+          {
+            "issue": "6",
+            "key": "ref12",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3390/su15064782",
+            "article-title": "The Need of Integrating Digital Education in Higher Education: Challenges and Opportunities",
+            "volume": "15",
+            "author": "M Alenezi",
+            "year": "2023",
+            "journal-title": "Sustainability"
+          },
+          {
+            "key": "ref13",
+            "article-title": "An overview of machine learning classification techniques",
+            "volume": "97",
+            "author": "A F A H Alnuaimi",
+            "year": "2024",
+            "journal-title": "BIO Web of Conferences"
+          },
+          {
+            "key": "ref14",
+            "first-page": "278",
+            "author": "G M Amalanathan",
+            "year": "2024",
+            "journal-title": "Role of Artificial Intelligence in the Future Educational Paradigm"
+          },
+          {
+            "key": "ref15",
+            "first-page": "245",
+            "author": "T Ananth Kumar",
+            "year": "2024",
+            "journal-title": "Machine Learning and Sentiment Analysis"
+          },
+          {
+            "issue": "4",
+            "key": "ref16",
+            "doi-asserted-by": "crossref",
+            "first-page": "533",
+            "DOI": "10.1080/01425692.2015.1093409",
+            "article-title": "Student-centered instruction and academic achievement: linking mechanisms of educational inequality to schools' instructional strategy",
+            "volume": "38",
+            "author": "I G Andersen",
+            "year": "2017",
+            "journal-title": "British Journal of Sociology of Education"
+          },
+          {
+            "issue": "9",
+            "key": "ref17",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3390/educsci13090914",
+            "article-title": "Emotions Matter: A Systematic Review and Meta-Analysis of the Detection and Classification of Students' Emotions in STEM during Online Learning",
+            "volume": "13",
+            "author": "A Anwar",
+            "year": "2023",
+            "journal-title": "Education Sciences"
+          },
+          {
+            "issue": "2",
+            "key": "ref18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.53022/oarjet.2023.5.2.0077",
+            "article-title": "Transforming education: Perceptions and challenges of technology-enabled teacher education programmes",
+            "volume": "5",
+            "author": "G P Ar Saravanakumar",
+            "year": "2023",
+            "journal-title": "Open Access Research Journal of Engineering and Technology"
+          },
+          {
+            "issue": "2",
+            "key": "ref19",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.15294/jess.v12i2.57822",
+            "article-title": "The Importance of Cared for Diversity through Multicultural Education at School Medan",
+            "volume": "12",
+            "author": "A Aricindy",
+            "year": "2023",
+            "journal-title": "Journal of Educational Social Studies"
+          },
+          {
+            "issue": "2",
+            "key": "ref20",
+            "article-title": "Diversity and Humanity in Islam: A Perspective of Religious Moderation",
+            "volume": "3",
+            "author": "A Asmanidar",
+            "year": "2023",
+            "journal-title": "Abrahamic Religions: Jurnal Studi Agama-Agama"
+          },
+          {
+            "key": "ref21",
+            "first-page": "79",
+            "author": "S E August",
+            "year": "2021",
+            "journal-title": "Artificial Intelligence and Machine Learning: An Instructor's Exoskeleton in the Future of Education"
+          },
+          {
+            "key": "ref22",
+            "article-title": "Teachers' perceptions and lived experiences of challenges in culturally diverse classrooms: establishing an equitable school environment",
+            "author": "H Aydin",
+            "year": "2023",
+            "journal-title": "Multicultural Learning and Teaching"
+          },
+          {
+            "key": "ref23",
+            "first-page": "1",
+            "article-title": "Big Data Processing using Machine Learning algorithms",
+            "author": "K Aziz",
+            "year": "2018",
+            "journal-title": "Proceedings of the 12th International Conference on Intelligent Systems: Theories and Applications"
+          },
+          {
+            "issue": "2",
+            "key": "ref24",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1177/0013124519859649",
+            "article-title": "Iranian University Faculties and Managing Culturally Diverse Classrooms: Strategies for Peace Establishment in the Higher Education",
+            "volume": "52",
+            "author": "P Badrkhani",
+            "year": "2020",
+            "journal-title": "Education and Urban Society"
+          },
+          {
+            "issue": "2",
+            "key": "ref25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.25233/ijlel.1341935",
+            "article-title": "Multicultural Classrooms in European Higher Education: Findings from Interviews with International Students and Teaching Staff",
+            "volume": "9",
+            "author": "M E Bakay",
+            "year": "2023",
+            "journal-title": "International Journal on Lifelong Education and Leadership"
+          },
+          {
+            "key": "ref26",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1017/CBO9781139519526.016",
+            "article-title": "Educational Data Mining and Learning Analytics",
+            "author": "R Baker",
+            "year": "2014",
+            "journal-title": "The Cambridge Handbook of the Learning Sciences"
+          },
+          {
+            "issue": "6",
+            "key": "ref27",
+            "doi-asserted-by": "crossref",
+            "first-page": "439",
+            "DOI": "10.1016/j.profnurs.2016.05.007",
+            "article-title": "Examining the Impact of Critical Multicultural Education Training on the Multicultural Attitudes, Awareness, and Practices of Nurse Educators",
+            "volume": "32",
+            "author": "K V Beard",
+            "year": "2016",
+            "journal-title": "Journal of Professional Nursing"
+          },
+          {
+            "key": "ref28",
+            "first-page": "191",
+            "author": "B P Bhagat",
+            "year": "2023",
+            "journal-title": "A Literature Review on Sentiment Analysis Using Machine Learning in Education Domain"
+          },
+          {
+            "issue": "3",
+            "key": "ref29",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.53799/ajse.v22i3.921",
+            "article-title": "Aspect-based Sentiment Analysis Model for Evaluating Teachers' Performance from Students' Feedback",
+            "volume": "22",
+            "author": "A Bhowmik",
+            "year": "2023",
+            "journal-title": "AIUB Journal of Science and Engineering (AJSE)"
+          },
+          {
+            "issue": "1",
+            "key": "ref30",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.15294/ijcet.v12i1.71259",
+            "article-title": "Multicultural Education in Islamic Boarding School",
+            "volume": "12",
+            "author": "S Birroh",
+            "year": "2023",
+            "journal-title": "Innovative Journal of Curriculum and Educational Technology"
+          },
+          {
+            "key": "ref31",
+            "first-page": "4356",
+            "article-title": "Man is to computer programmer as woman is to homemaker? Debiasing word embeddings",
+            "author": "T Bolukbasi",
+            "year": "2016",
+            "journal-title": "Advances in Neural Information Processing Systems"
+          },
+          {
+            "issue": "1",
+            "key": "ref32",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.58788/alwijdn.v6i1.1464",
+            "article-title": "The Multiculturalism of Pesantren: Scaffolding Diversity of Indonesian Society",
+            "volume": "6",
+            "author": "A A Bustomi",
+            "year": "2021",
+            "journal-title": "AL-WIJD�N Journal of Islamic Education Studies"
+          },
+          {
+            "issue": "4",
+            "key": "ref33",
+            "doi-asserted-by": "crossref",
+            "first-page": "540",
+            "DOI": "10.1080/15546128.2023.2174235",
+            "article-title": "Sexuality Education during the COVID-19 Pandemic: A Qualitative Analysis of the Challenges and Changes Experienced by Sexuality Educators",
+            "volume": "18",
+            "author": "L K Cahalan",
+            "year": "2023",
+            "journal-title": "American Journal of Sexuality Education"
+          },
+          {
+            "issue": "4",
+            "key": "ref34",
+            "doi-asserted-by": "crossref",
+            "first-page": "3203",
+            "DOI": "10.48017/dj.v8i4.2780",
+            "article-title": "Culturally Responsive Pedagogy",
+            "volume": "8",
+            "author": "M Caingcoy",
+            "year": "2023",
+            "journal-title": "Diversitas Journal"
+          },
+          {
+            "issue": "4",
+            "key": "ref35",
+            "doi-asserted-by": "crossref",
+            "first-page": "3203",
+            "DOI": "10.48017/dj.v8i4.2780",
+            "article-title": "Culturally responsive pedagogy: A systematic overview",
+            "volume": "8",
+            "author": "M E Caingcoy",
+            "year": "2023",
+            "journal-title": "Diversitas Journal"
+          },
+          {
+            "issue": "4",
+            "key": "ref36",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.24018/ejai.2023.2.4.32",
+            "article-title": "The Development of Artificial Intelligence in Career Initiation Education and Implications for China",
+            "volume": "2",
+            "author": "Y Cheng",
+            "year": "2023",
+            "journal-title": "European Journal of Artificial Intelligence and Machine Learning"
+          },
+          {
+            "issue": "3",
+            "key": "ref37",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.51594/ijarss.v6i3.895",
+            "article-title": "CULTURAL COMPETENCE IN EDUCATION: STRATEGIES FOR FOSTERING INCLUSIVITY AND DIVERSITY AWARENESS",
+            "volume": "6",
+            "author": "Onyebuchi Chima Abimbola Eden",
+            "year": "2024",
+            "journal-title": "International Journal of Applied Research in Social Sciences"
+          },
+          {
+            "key": "ref38",
+            "first-page": "162",
+            "volume": "82",
+            "author": "V Chmyr",
+            "year": "2024",
+            "journal-title": "FOSTERING DIGITAL TRANSFORMATIONS IN MILITARY ENGINEERING EDUCATION: INTRODUCTION OF A TECHNOLOGY-ENHANCED LEARNING ENVIRONMENT. Problems of Education in the 21st Century"
+          },
+          {
+            "key": "ref39",
+            "first-page": "1254",
+            "author": "W Chung",
+            "year": "2022",
+            "journal-title": "Machine Learning to the Rescue: ML-Assisted Framework for Equity-Driven Education. 2022 IEEE Global Engineering Education Conference (EDUCON)"
+          },
+          {
+            "issue": "1",
+            "key": "ref40",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1515/jaiscr-2017-0004",
+            "article-title": "A Survey of Artificial Intelligence Techniques Employed for Adaptive Educational Systems within E-Learning Platforms",
+            "volume": "7",
+            "author": "K Colchester",
+            "year": "2017",
+            "journal-title": "Journal of Artificial Intelligence and Soft Computing Research"
+          },
+          {
+            "issue": "6",
+            "key": "ref41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1423",
+            "DOI": "10.1158/2159-8290.CD-22-0373",
+            "article-title": "Artificial Intelligence and Machine Learning Technologies in Cancer Care: Addressing Disparities, Bias, and Data Diversity",
+            "volume": "12",
+            "author": "I Dankwa-Mullan",
+            "year": "2022",
+            "journal-title": "Cancer Discovery"
+          },
+          {
+            "key": "ref42",
+            "first-page": "668",
+            "article-title": "Analysis of Student Sentiment Dynamics to Evaluate Teachers Performance in Online Course using Machine Learning",
+            "author": "S Das",
+            "year": "2022",
+            "journal-title": "2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC)"
+          },
+          {
+            "key": "ref43",
+            "first-page": "142",
+            "volume": "19",
+            "author": "R De Korne",
+            "year": "2020",
+            "journal-title": "Citizenship Education and Global Migration: Implications for Theory, Research, and Teaching"
+          },
+          {
+            "key": "ref44",
+            "volume": "491",
+            "author": "D Dhabliya",
+            "year": "2024",
+            "journal-title": "Addressing Bias in Machine Learning Algorithms: Promoting Fairness and Ethical Design. E3S Web of Conferences"
+          },
+          {
+            "issue": "3",
+            "key": "ref45",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.3112/erdkunde.2023.03.02",
+            "article-title": "Diversity in Geography -An analysis of textbooks",
+            "volume": "77",
+            "author": "L D�rfel",
+            "year": "2023",
+            "journal-title": "Erdkunde"
+          },
+          {
+            "key": "ref46",
+            "author": "W Dreyfus",
+            "year": "2019",
+            "journal-title": "Teacher perceptions of culturally responsive pedagogy in the classroom"
+          },
+          {
+            "issue": "1-3",
+            "key": "ref47",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1016/j.jhazmat.2009.08.076",
+            "article-title": "Hazard and operability (HAZOP) analysis. A literature review",
+            "volume": "173",
+            "author": "J Dunj�",
+            "year": "2010",
+            "journal-title": "Journal of Hazardous Materials"
+          },
+          {
+            "issue": "2",
+            "key": "ref48",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.37284/eajes.7.2.1909",
+            "article-title": "Literature Review in Scientific Research: An Overview",
+            "volume": "7",
+            "author": "L.-L Ebidor",
+            "year": "2024",
+            "journal-title": "East African Journal of Education Studies"
+          },
+          {
+            "key": "ref49",
+            "article-title": "Implementation of Multicultural Education Cooperative Learning to Develop Character, Nationalism and Religious",
+            "volume": "4",
+            "author": "M Y Efendi",
+            "year": "2021",
+            "journal-title": "JOURNAL OF TEACHING AND LEARNING IN ELEMENTARY EDUCATION (JTLEE)"
+          },
+          {
+            "issue": "9",
+            "key": "ref50",
+            "article-title": "A SENTIMENT ANALYSIS MODEL FOR ELECTROENCEPHALOGRAM SIGNALS OF STUDENTS IN UNIVERSITIES USING A CONVOLUTIONAL NEURAL NETWORK AND SUPPORT VECTOR MACHINE MODELS",
+            "author": "X Fan",
+            "year": "2023",
+            "journal-title": "Journal of Mechanics in Medicine and Biology"
+          },
+          {
+            "key": "ref51",
+            "first-page": "347",
+            "author": "J Gajwani",
+            "year": "2021",
+            "journal-title": "Students' Performance Prediction Using Feature Selection and Supervised Machine Learning Algorithms"
+          },
+          {
+            "issue": "4",
+            "key": "ref52",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.3126/kmcrj.v4i4.46504",
+            "article-title": "Multicultural Education: Components and Necessities",
+            "volume": "4",
+            "author": "T R Ghimire",
+            "year": "2020",
+            "journal-title": "KMC Research Journal"
+          },
+          {
+            "issue": "12",
+            "key": "ref53",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.3390/educsci13121216",
+            "article-title": "Adaptive Learning Using Artificial Intelligence in e-Learning: A Literature Review",
+            "volume": "13",
+            "author": "I Gligorea",
+            "year": "2023",
+            "journal-title": "Education Sciences"
+          },
+          {
+            "key": "ref54",
+            "doi-asserted-by": "crossref",
+            "first-page": "42",
+            "DOI": "10.1016/j.pediatrneurol.2023.01.004",
+            "article-title": "Review of Machine Learning and Artificial Intelligence (ML/AI) for the Pediatric Neurologist",
+            "volume": "141",
+            "author": "G Y Gombolay",
+            "year": "2023",
+            "journal-title": "Pediatric Neurology"
+          },
+          {
+            "issue": "6",
+            "key": "ref55",
+            "first-page": "34",
+            "article-title": "Equity literacy for all",
+            "volume": "72",
+            "author": "P C Gorski",
+            "year": "2015",
+            "journal-title": "Educational Leadership"
+          },
+          {
+            "issue": "1",
+            "key": "ref56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1596",
+            "DOI": "10.54443/ijebas.v3i1.1136",
+            "article-title": "TECHNOLOGY AND THE TRANSFORMATION OF EDUCATIONAL PRACTICES: A FUTURE PERSPECTIVE",
+            "volume": "3",
+            "author": "Gowher Hassan",
+            "year": "2023",
+            "journal-title": "International Journal of Economic, Business, Accounting, Agriculture Management and Sharia Administration (IJEBAS)"
+          },
+          {
+            "key": "ref57",
+            "first-page": "1",
+            "article-title": "Fundamental Categories of Artificial Neural Networks",
+            "author": "A P Gurjar",
+            "year": "2022",
+            "journal-title": "Research Anthology on Artificial Neural Network Applications"
+          },
+          {
+            "key": "ref58",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2139/ssrn.3166780",
+            "article-title": "Factors Influencing Language Learning: Experiences from Diverse Cultural Backgrounds",
+            "author": "H Hamad",
+            "year": "2018",
+            "journal-title": "SSRN Electronic Journal"
+          },
+          {
+            "issue": "4",
+            "key": "ref59",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.59613/global.v2i4.127",
+            "article-title": "Culturally Responsive Teaching: Strategies for Promoting Inclusivity in Diverse Classrooms",
+            "volume": "2",
+            "author": "P Haniko",
+            "year": "2024",
+            "journal-title": "Global International Journal of Innovative Research"
+          },
+          {
+            "issue": "1",
+            "key": "ref60",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.33852/jurnalnu.v7i1.450",
+            "article-title": "Enhancing Tolerance and Cultural Diversity through Multicultural Education Management",
+            "volume": "7",
+            "author": "H Hartinah",
+            "year": "2023",
+            "journal-title": "JURNAL ISLAM NUSANTARA"
+          },
+          {
+            "key": "ref61",
+            "doi-asserted-by": "crossref",
+            "first-page": "941",
+            "DOI": "10.4018/978-1-7998-9026-3.ch050",
+            "article-title": "Student Teachers' Experiences of Cultural Diversity During Student Teaching",
+            "author": "A Ibrahim",
+            "year": "2021",
+            "journal-title": "Research Anthology on Culturally Responsive Teaching and Learning"
+          },
+          {
+            "issue": "2",
+            "key": "ref62",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.26483/ijarcs.v13i2.6813",
+            "article-title": "MACHINE LEARNING TECHNIQUES FOR ASSESSING STUDENTS' ENVIRONMENTS' IMPACT FACTORS ON THEIR ACADEMIC PERFORMANCE",
+            "volume": "13",
+            "author": "M H Jabardi",
+            "year": "2022",
+            "journal-title": "International Journal of Advanced Research in Computer Science"
+          },
+          {
+            "issue": "5",
+            "key": "ref63",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1086/461855",
+            "article-title": "Reflective Practice and Anthropology in Culturally Diverse Classrooms",
+            "volume": "95",
+            "author": "E Jacob",
+            "year": "1995",
+            "journal-title": "The Elementary School Journal"
+          },
+          {
+            "key": "ref64",
+            "first-page": "247",
+            "volume": "16",
+            "author": "J Jalal",
+            "year": "2024",
+            "journal-title": "Implementation of Multicultural Education As Revitalization of National Awareness for Sociology Education Students. AL-ISHLAH: Jurnal Pendidikan"
+          },
+          {
+            "issue": "23",
+            "key": "ref65",
+            "first-page": "9896",
+            "article-title": "Combined effects of perception of politics and political skill on employee job outcomes",
+            "volume": "5",
+            "author": "F A Jam",
+            "year": "2011",
+            "journal-title": "African Journal of Business Management"
+          },
+          {
+            "issue": "4",
+            "key": "ref66",
+            "doi-asserted-by": "crossref",
+            "first-page": "457",
+            "DOI": "10.1080/14613800903390758",
+            "article-title": "Opening the doors to multiculturalism': Australian pre-service music teacher education students' understandings of cultural diversity",
+            "volume": "11",
+            "author": "D Joseph",
+            "year": "2009",
+            "journal-title": "Music Education Research"
+          },
+          {
+            "issue": "1",
+            "key": "ref67",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.37110/jell.v9i01.211",
+            "article-title": "NAVIGATING TRANSLATION CHALLENGES: A HOLISTIC EXAMINATION OF COMMON ISSUES FACED BY TRANSLATION LEARNER IN THE FIFTH SEMESTER IN PERTIWI UNIVERSITY",
+            "volume": "9",
+            "author": "Z Juherni",
+            "year": "2024",
+            "journal-title": "JELL (Journal of English Language and Literature) STIBA-IEC Jakarta"
+          },
+          {
+            "issue": "13",
+            "key": "ref68",
+            "doi-asserted-by": "crossref",
+            "first-page": "250",
+            "DOI": "10.3991/ijet.v18i13.39329",
+            "article-title": "Effectiveness of an Adaptive Learning Chatbot on Students' Learning Outcomes Based on Learning Styles",
+            "volume": "18",
+            "author": "W Kaiss",
+            "year": "2023",
+            "journal-title": "International Journal of Emerging Technologies in Learning (IJET)"
+          },
+          {
+            "issue": "3",
+            "key": "ref69",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.33152/jmphss-8.3.5",
+            "article-title": "Human Capital Formation, Foreign Direct Investment Inflows, and Economic Growth: A Way Forward to Achieve Sustainable Development",
+            "volume": "8",
+            "author": "N Kanval",
+            "year": "2024",
+            "journal-title": "Journal of Management Practices, Humanities and Social Sciences"
+          },
+          {
+            "key": "ref70",
+            "first-page": "96",
+            "author": "M Kashif",
+            "year": "2024",
+            "journal-title": "Integration of Artificial Intelligence in the Financial Sector"
+          },
+          {
+            "key": "ref71",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.55083/isbn.978-93-94435-08-7.ccedtb062332",
+            "author": "G Kaur",
+            "year": "2023",
+            "journal-title": "INSIGHTS ON MACHINE LEARNING"
+          },
+          {
+            "issue": "1",
+            "key": "ref72",
+            "doi-asserted-by": "crossref",
+            "first-page": "20",
+            "DOI": "10.1080/2005615X.2019.1567094",
+            "article-title": "Culturally responsive secondary education: exploring cultural differences through existential pedagogy",
+            "volume": "11",
+            "author": "C J Kazanjian",
+            "year": "2019",
+            "journal-title": "Multicultural Education Review"
+          },
+          {
+            "key": "ref73",
+            "first-page": "141",
+            "author": "Kee Wong",
+            "year": "2021",
+            "journal-title": "The use of Big Data in Machine Learning Algorithm. NLP Techniques and Applications"
+          },
+          {
+            "issue": "1",
+            "key": "ref74",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.47836/jlc.10.01.06",
+            "article-title": "SENTIMENT ANALYSIS OF STUDENTS' FEEDBACK ON INSTITUTIONAL FACILITIES USING TEXT-BASED CLASSIFICATION AND NATURAL LANGUAGE PROCESSING (NLP)",
+            "volume": "10",
+            "author": "F K Khaiser",
+            "year": "2023",
+            "journal-title": "Journal of Language and Communication"
+          },
+          {
+            "key": "ref75",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1117/12.2621282",
+            "article-title": "Exploring bias and fairness in artificial intelligence and machine learning algorithms",
+            "author": "U B Khakurel",
+            "year": "2022",
+            "journal-title": "Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications IV"
+          },
+          {
+            "key": "ref76",
+            "first-page": "4",
+            "article-title": "Machine Learning-Based Students' Sentiment towards E-Learning amid COVID-19 Pandemic",
+            "author": "F M Khan",
+            "year": "2024",
+            "journal-title": "The Asian Bulletin of Big Data Management"
+          },
+          {
+            "key": "ref77",
+            "first-page": "373",
+            "article-title": "Fairness of Machine Learning Algorithms for the Black Community",
+            "author": "S M A Kiemde",
+            "year": "2020",
+            "journal-title": "IEEE International Symposium on Technology and Society (ISTAS)"
+          },
+          {
+            "issue": "4",
+            "key": "ref78",
+            "doi-asserted-by": "crossref",
+            "first-page": "334",
+            "DOI": "10.1080/17447143.2018.1546309",
+            "article-title": "Approaching culture, negotiating practice: Finnish educators' discourses on cultural diversity",
+            "volume": "13",
+            "author": "A Kimanen",
+            "year": "2018",
+            "journal-title": "Journal of Multicultural Discourses"
+          },
+          {
+            "key": "ref79",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.25259/APOS_60_2021",
+            "article-title": "Introduction to artificial intelligence and machine learning into orthodontics: A review",
+            "volume": "12",
+            "author": "R T Kondody",
+            "year": "2022",
+            "journal-title": "APOS Trends in Orthodontics"
+          },
+          {
+            "key": "ref80",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.37497/rev.artif.intell.educ.v5i00.25",
+            "article-title": "Dimensions of Legal And Moral Use of Artificial Intelligence In Education",
+            "volume": "5",
+            "author": "T Kronivets",
+            "year": "2024",
+            "journal-title": "Review of Artificial Intelligence in Education"
+          },
+          {
+            "issue": "1",
+            "key": "ref81",
+            "doi-asserted-by": "crossref",
+            "first-page": "426",
+            "DOI": "10.54660/.IJMRGE.2024.5.1.426-432",
+            "article-title": "A study on the impact of digital transformation on student empowerment in higher education of India",
+            "volume": "5",
+            "author": "D J S Kumar",
+            "year": "2024",
+            "journal-title": "International Journal of Multidisciplinary Research and Growth Evaluation"
+          },
+          {
+            "issue": "3",
+            "key": "ref82",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.5958/0976-2469.2022.00030.6",
+            "article-title": "Quality in library services -A literature review study",
+            "volume": "60",
+            "author": "R Kumar",
+            "year": "2022",
+            "journal-title": "Library Herald"
+          },
+          {
+            "key": "ref83",
+            "article-title": "Student Teaching and Learning System for Academic Institutions",
+            "author": "A D S S Kumarasiri",
+            "year": "2022",
+            "journal-title": "Technology"
+          },
+          {
+            "key": "ref84",
+            "first-page": "1",
+            "article-title": "Student Teaching and Learning System for Academic Institutions",
+            "author": "A D S S Kumarasiri",
+            "year": "2022",
+            "journal-title": "Technology"
+          },
+          {
+            "issue": "1",
+            "key": "ref85",
+            "doi-asserted-by": "crossref",
+            "first-page": "20",
+            "DOI": "10.47747/ijets.v4i1.1626",
+            "article-title": "Meta-Study of the Evolutionary Transformative Academic Landscape by Artificial Intelligence and Machine Learning",
+            "volume": "4",
+            "author": "B Lainjo",
+            "year": "2024",
+            "journal-title": "International Journal of Education, Teaching, and Social Sciences"
+          },
+          {
+            "issue": "3",
+            "key": "ref86",
+            "article-title": "Application of Artificial Intelligence in Cultural Heritage Protection",
+            "volume": "1881",
+            "author": "J Li",
+            "year": "2021",
+            "journal-title": "Journal of Physics: Conference Series"
+          },
+          {
+            "issue": "3",
+            "key": "ref87",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.53819/81018102t4181",
+            "article-title": "The Influence of AI-Powered Adaptive Learning Platforms on Student Performance in Chinese Classrooms",
+            "volume": "6",
+            "author": "Q Z Luo",
+            "year": "2023",
+            "journal-title": "Journal of Education"
+          },
+          {
+            "issue": "2",
+            "key": "ref88",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1016/j.oneear.2021.01.002",
+            "article-title": "Culturally diverse expert teams have yet to bring comprehensive linguistic diversity to intergovernmental ecosystem assessments",
+            "volume": "4",
+            "author": "A J Lynch",
+            "year": "2021",
+            "journal-title": "One Earth"
+          },
+          {
+            "key": "ref89",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.5772/intechopen.108058",
+            "article-title": "The Impact of Digital Education on Modern Educational Institutions",
+            "author": "M Alshehri",
+            "year": "2024",
+            "journal-title": "Social Media -Opportunities and Risks. IntechOpen"
+          },
+          {
+            "key": "ref90",
+            "first-page": "186",
+            "author": "K Mahboob",
+            "year": "2024",
+            "journal-title": "Leveraging Generative AI for Cross-Cultural Knowledge Exchange in Higher Education"
+          },
+          {
+            "issue": "1",
+            "key": "ref91",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1108/QEA-02-2024-0018",
+            "article-title": "Multicultural values: meeting point of two forces in Islamic education",
+            "volume": "1",
+            "author": "D Mariyono",
+            "year": "2024",
+            "journal-title": "Quality Education for All"
+          },
+          {
+            "issue": "3",
+            "key": "ref92",
+            "doi-asserted-by": "crossref",
+            "first-page": "258",
+            "DOI": "10.1016/j.teln.2021.01.008",
+            "article-title": "Embracing classroom cultural diversity: Innovations for nurturing inclusive intercultural learning and culturally responsive teaching",
+            "volume": "16",
+            "author": "D K Markey",
+            "year": "2021",
+            "journal-title": "Teaching and Learning in Nursing"
+          },
+          {
+            "issue": "2",
+            "key": "ref93",
+            "doi-asserted-by": "crossref",
+            "first-page": "64",
+            "DOI": "10.60084/jeml.v1i2.132",
+            "article-title": "Leveraging Artificial Intelligence to Predict Student Performance: A Comparative Machine Learning Approach",
+            "volume": "1",
+            "author": "A Maulana",
+            "year": "2023",
+            "journal-title": "Journal of Educational Management and Learning"
+          },
+          {
+            "issue": "5",
+            "key": "ref94",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.53469/jsshl.2023.06(05).10",
+            "article-title": "Exploring the Effectiveness of Individualized Learning Trajectories in University Smart Sports Education Classrooms: A Design and Implementation Study",
+            "volume": "6",
+            "author": "F Miao",
+            "year": "2023",
+            "journal-title": "Journal of Social Science Humanities and Literature"
+          },
+          {
+            "key": "ref95",
+            "first-page": "225",
+            "author": "A Mohanty",
+            "year": "2024",
+            "journal-title": "Artificial Intelligence (AI) and Machine Learning (ML) Technology-Driven Structural Systems"
+          },
+          {
+            "key": "ref96",
+            "first-page": "205",
+            "author": "T Molema",
+            "year": "2024",
+            "journal-title": "Cultural Diversity in Language Learning"
+          },
+          {
+            "issue": "12",
+            "key": "ref97",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0243095",
+            "article-title": "Cultural awareness and competence of pharmacy educators and learners from the perspective of pharmacy students at Qatar University: A mixed-methods approach",
+            "volume": "15",
+            "author": "B Mukhalalati",
+            "year": "2020",
+            "journal-title": "PLOS ONE"
+          },
+          {
+            "key": "ref98",
+            "first-page": "24",
+            "article-title": "Artificial intelligence and machine learning",
+            "volume": "3",
+            "author": "N B Sultangazina",
+            "year": "2021",
+            "journal-title": "Physics & Mathematics Series"
+          },
+          {
+            "key": "ref99",
+            "first-page": "491",
+            "article-title": "Effective E-Learning Practices by Machine Learning and Artificial Intelligence",
+            "author": "A Naim",
+            "year": "2023",
+            "journal-title": "2023 International Conference on Artificial Intelligence and Smart Communication (AISC)"
+          },
+          {
+            "issue": "2",
+            "key": "ref100",
+            "doi-asserted-by": "crossref",
+            "first-page": "511",
+            "DOI": "10.54183/jssr.v3i2.291",
+            "article-title": "Challenges and Benefits of Multicultural Education for Promoting Equality in Diverse Classrooms",
+            "volume": "3",
+            "author": "F L Naz",
+            "year": "2023",
+            "journal-title": "Journal of Social Sciences Review"
+          },
+          {
+            "issue": "2",
+            "key": "ref101",
+            "first-page": "143",
+            "article-title": "Enhancing Language Competence through Cultural Diversity: Exploring EFL Teaching Strategies in Kazakhstan",
+            "volume": "2",
+            "author": "A Novotney",
+            "year": "2023",
+            "journal-title": "Eurasian Science Review An International Peer-Reviewed Multidisciplinary Journal"
+          },
+          {
+            "key": "ref102",
+            "first-page": "481",
+            "author": "O Ojajuni",
+            "year": "2021",
+            "journal-title": "Predicting Student Academic Performance Using Machine Learning"
+          },
+          {
+            "issue": "4",
+            "key": "ref103",
+            "doi-asserted-by": "crossref",
+            "first-page": "787",
+            "DOI": "10.51594/csitrj.v5i4.1026",
+            "article-title": "ARTIFICIAL INTELLIGENCE FOR SYSTEMS ENGINEERING COMPLEXITY: A REVIEW ON THE USE OF AI AND MACHINE LEARNING ALGORITHMS",
+            "volume": "5",
+            "author": "Junior Oladele",
+            "year": "2024",
+            "journal-title": "Computer Science & IT Research Journal"
+          },
+          {
+            "issue": "2",
+            "key": "ref104",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.5296/jei.v1i2.8396",
+            "article-title": "Using Q Methodology in the Literature Review Process: A Mixed Research Approach",
+            "volume": "1",
+            "author": "A J Onwuegbuzie",
+            "year": "2015",
+            "journal-title": "Journal of Educational Issues"
+          },
+          {
+            "key": "ref105",
+            "first-page": "1577",
+            "author": "S S Oyelere",
+            "year": "2022",
+            "journal-title": "Artificial Intelligence in African Schools: Towards a Contextualized Approach. 2022 IEEE Global Engineering Education Conference (EDUCON)"
+          },
+          {
+            "key": "ref106",
+            "first-page": "2264",
+            "article-title": "Investigating the impact of artificial intelligence in education sector by predicting student performance",
+            "volume": "51",
+            "author": "H Pallathadka",
+            "year": "2022",
+            "journal-title": "Materials Today: Proceedings"
+          },
+          {
+            "issue": "2",
+            "key": "ref107",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.17509/ijal.v8i2.13276",
+            "article-title": "The representation of Indonesian cultural diversity in middle school English textbooks",
+            "volume": "8",
+            "author": "F Parlindungan",
+            "year": "2018",
+            "journal-title": "Indonesian Journal of Applied Linguistics"
+          },
+          {
+            "issue": "IJISRT",
+            "key": "ref108",
+            "first-page": "2180",
+            "article-title": "Exploring the Role of Artificial Intelligence in Enhancing Equity and Inclusion in Education",
+            "author": "G Pawar",
+            "year": "2024",
+            "journal-title": "International Journal of Innovative Science and Research Technology"
+          },
+          {
+            "issue": "2",
+            "key": "ref109",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1080/03075070801916005",
+            "article-title": "Preferred 'learning styles' in students studying sports-related programmes in higher education in the United Kingdom",
+            "volume": "33",
+            "author": "D Peters",
+            "year": "2008",
+            "journal-title": "Studies in Higher Education"
+          },
+          {
+            "issue": "5",
+            "key": "ref110",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1007/s13384-013-0120-1",
+            "article-title": "Multicultural early childhood education: practices and challenges in Malaysia",
+            "volume": "40",
+            "author": "H S Phoon",
+            "year": "2013",
+            "journal-title": "The Australian Educational Researcher"
+          },
+          {
+            "issue": "2",
+            "key": "ref111",
+            "first-page": "837",
+            "article-title": "The Digital Revolution in Higher Education: Transforming Teaching and Learning",
+            "volume": "15",
+            "author": "K I B Qolamani",
+            "year": "2023",
+            "journal-title": "QALAMUNA: Jurnal Pendidikan, Sosial, Dan Agama"
+          },
+          {
+            "issue": "1",
+            "key": "ref112",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "DOI": "10.55284/ajce.v6i1.952",
+            "article-title": "The positive impact of bicultural identity on emotional, cognitive, and behavioral engagement: An exploratory analysis",
+            "volume": "6",
+            "author": "F Rabi",
+            "year": "2023",
+            "journal-title": "American Journal of Creative Education"
+          },
+          {
+            "key": "ref113",
+            "first-page": "1",
+            "article-title": "Machine Learning Methods for Online Education Case",
+            "author": "M Rajagopal",
+            "year": "2023",
+            "journal-title": "Eighth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)"
+          },
+          {
+            "key": "ref114",
+            "first-page": "10",
+            "article-title": "Artificial Intelligence and Deep Learning Applications: A Review",
+            "volume": "12",
+            "author": "G Ramachandran",
+            "year": "2021",
+            "journal-title": "Machine Learning and Neural Network"
+          },
+          {
+            "key": "ref115",
+            "first-page": "11",
+            "author": "M Reuter-Oppermann",
+            "year": "2022",
+            "journal-title": "Introduction into Artificial Intelligence and Machine Learning"
+          },
+          {
+            "key": "ref116",
+            "first-page": "3",
+            "article-title": "The Role Of Teachers In Implementing Multicultural Education At Taruna Nusantara High School To Enhance Social Resilience",
+            "author": "Robbyanandri Pratama",
+            "year": "2023",
+            "journal-title": "International Journal Of Humanities Education and Social Sciences (IJHESS)"
+          },
+          {
+            "issue": "12",
+            "key": "ref117",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.47191/ijcsrr/V6-i12-50",
+            "article-title": "The Importance of Artificial Intelligence in Modern Media Education Technologies in Institutions of Higher Education",
+            "author": "G A Samigova",
+            "year": "2023",
+            "journal-title": "International Journal of Current Science Research and Review"
+          },
+          {
+            "issue": "1",
+            "key": "ref118",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.47604/ijs.2325",
+            "article-title": "Dynamics of Cultural Diversity and Intercultural Communication in the Era of Multiculturalism and Cosmopolitanism in Brazil",
+            "volume": "8",
+            "author": "M Santos",
+            "year": "2024",
+            "journal-title": "International Journal of Sociology"
+          },
+          {
+            "issue": "1",
+            "key": "ref119",
+            "doi-asserted-by": "crossref",
+            "first-page": "42",
+            "DOI": "10.37978/pjsm.v1i1.102",
+            "article-title": "Predatory Journals: A Literature Review",
+            "volume": "1",
+            "author": "Z Sarfraz",
+            "year": "2020",
+            "journal-title": "Pakistan Journal of Surgery and Medicine"
+          },
+          {
+            "issue": "6",
+            "key": "ref120",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.31039/ejohe.2022.6.67",
+            "article-title": "Education with AI & Machine Learning in a Post-Pandemic World",
+            "volume": "3",
+            "author": "J Segura-Monroy",
+            "year": "2022",
+            "journal-title": "Eurasian Journal of Higher Education"
+          },
+          {
+            "key": "ref121",
+            "first-page": "114",
+            "author": "H V Seliskar",
+            "year": "2021",
+            "journal-title": "Building Capacity Through Multiculturalism and Diversity in the Online Classroom"
+          },
+          {
+            "issue": "2",
+            "key": "ref122",
+            "doi-asserted-by": "crossref",
+            "first-page": "1158",
+            "DOI": "10.61841/turcomat.v10i2.14387",
+            "article-title": "Bias in Machine Learning Algorithms",
+            "volume": "10",
+            "author": "I Sharma",
+            "year": "2019",
+            "journal-title": "Turkish Journal of Computer and Mathematics Education (TURCOMAT)"
+          },
+          {
+            "key": "ref123",
+            "first-page": "86",
+            "author": "S K Sharma",
+            "year": "2024",
+            "journal-title": "Artificial Intelligence and Machine Learning in Smart Education"
+          },
+          {
+            "issue": "1",
+            "key": "ref124",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.3126/ire.v4i1.25708",
+            "article-title": "Exploring the Dimensions of Multicultural Education and its Implication in Teaching Learning",
+            "volume": "4",
+            "author": "D Sherpa",
+            "year": "2019",
+            "journal-title": "Interdisciplinary Research in Education"
+          },
+          {
+            "key": "ref125",
+            "first-page": "65",
+            "author": "A J Singh",
+            "year": "2021",
+            "journal-title": "Effort Estimation Using Hybridized Machine Learning Techniques for Evaluating Student's Academic Performance"
+          },
+          {
+            "issue": "1",
+            "key": "ref126",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.18251/ijme.v20i1.1663",
+            "article-title": "Multicultural Education Past, Present, and Future: Struggles for Dialog and Power-Sharing",
+            "volume": "20",
+            "author": "C E Sleeter",
+            "year": "2018",
+            "journal-title": "International Journal of Multicultural Education"
+          },
+          {
+            "key": "ref127",
+            "doi-asserted-by": "crossref",
+            "first-page": "1069",
+            "DOI": "10.32628/IJSRST523103163",
+            "article-title": "A Survey on Machine Learning Algorithms for Risk-Controlled Algorithmic Trading",
+            "author": "Soham Pathak",
+            "year": "2023",
+            "journal-title": "International Journal of Scientific Research in Science and Technology"
+          },
+          {
+            "issue": "3",
+            "key": "ref128",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.15702/mall.2011.14.3.133",
+            "article-title": "Learning styles based on the different cultural background of KFL learners in online learning",
+            "volume": "14",
+            "author": "Song Donggil",
+            "year": "2011",
+            "journal-title": "Multimedia-Assisted Language Learning"
+          },
+          {
+            "key": "ref129",
+            "first-page": "287",
+            "volume": "41",
+            "author": "T Soutphommasane",
+            "year": "2017",
+            "journal-title": "Cultural Diversity in Leadership: What Does It Say About Australian Multiculturalism? Journal of Australian Studies"
+          },
+          {
+            "issue": "4",
+            "key": "ref130",
+            "article-title": "How to Teach English Without Cultural Bias",
+            "volume": "1",
+            "author": "Y Sun",
+            "year": "2024",
+            "journal-title": "Arts, Culture and Language"
+          },
+          {
+            "issue": "1",
+            "key": "ref131",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1038/s41746-023-00881-0",
+            "article-title": "Skin Tone Analysis for Representation in Educational Materials (STAR-ED) using machine learning",
+            "volume": "6",
+            "author": "G A Tadesse",
+            "year": "2023",
+            "journal-title": "Npj Digital Medicine"
+          },
+          {
+            "issue": "1",
+            "key": "ref132",
+            "article-title": "Emotional Variance Analysis: A new sentiment analysis feature set for Artificial Intelligence and Machine Learning applications",
+            "volume": "18",
+            "author": "L Tan",
+            "year": "2023",
+            "journal-title": "PLOS ONE"
+          },
+          {
+            "issue": "2",
+            "key": "ref133",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1080/13598660801971625",
+            "article-title": "Teachers working in culturally diverse classrooms: implications for the development of professional standards and for teacher education",
+            "volume": "36",
+            "author": "S Thomas",
+            "year": "2008",
+            "journal-title": "Asia-Pacific Journal of Teacher Education"
+          },
+          {
+            "key": "ref134",
+            "first-page": "39",
+            "article-title": "The Human Resources Development Applications of Machine Learning in the View of Artificial Intelligence",
+            "author": "J Tian",
+            "year": "2020",
+            "journal-title": "IEEE 3rd International Conference on Computer and Communication Engineering Technology (CCET)"
+          },
+          {
+            "key": "ref135",
+            "article-title": "The integration of AI and machine learning in education and its potential to personalize and improve student learning experiences",
+            "author": "R Tiwari",
+            "year": "2023",
+            "journal-title": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT"
+          },
+          {
+            "key": "ref136",
+            "article-title": "Machine Learning Techniques for Enhancing Student Learning Experiences",
+            "author": "R R Tribhuvan",
+            "year": "2021",
+            "journal-title": "Journal of Information Technology and Sciences"
+          },
+          {
+            "key": "ref137",
+            "doi-asserted-by": "crossref",
+            "first-page": "40954",
+            "DOI": "10.1109/ACCESS.2023.3270340",
+            "article-title": "Technological Spotlights of Digital Transformation in Tertiary Education",
+            "volume": "11",
+            "author": "T.-C Truong",
+            "year": "2023",
+            "journal-title": "IEEE Access"
+          },
+          {
+            "issue": "4",
+            "key": "ref138",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.52006/main.v6i4.869",
+            "article-title": "Developing a Cross-Cultural Competence Scale for Pre-Service Teachers: A Filipino Case Study",
+            "volume": "6",
+            "author": "J L P Tudayan",
+            "year": "2024",
+            "journal-title": "Philippine Social Science Journal"
+          },
+          {
+            "issue": "5",
+            "key": "ref139",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1016/j.acalib.2014.06.003",
+            "article-title": "How Much of Library and Information Science Literature Qualifies as Research?",
+            "volume": "40",
+            "author": "M E Turcios",
+            "year": "2014",
+            "journal-title": "The Journal of Academic Librarianship"
+          },
+          {
+            "issue": "12",
+            "key": "ref140",
+            "doi-asserted-by": "crossref",
+            "first-page": "4489",
+            "DOI": "10.35940/ijitee.L3524.1081219",
+            "article-title": "Similarity Based Prediction System using Machine Learning Algorithms in Big Data Analytics",
+            "volume": "8",
+            "author": "* Vanitha",
+            "year": "2019",
+            "journal-title": "International Journal of Innovative Technology and Exploring Engineering"
+          },
+          {
+            "key": "ref141",
+            "first-page": "1",
+            "article-title": "Simulation-Based Digital Twins Enabling Smart Services for Machine Operations: An Industry 5.0 Approach",
+            "author": "M Verdugo-Cede�o",
+            "journal-title": "International Journal of Human-Computer Interaction"
+          },
+          {
+            "issue": "1",
+            "key": "ref142",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/sipr.12051",
+            "article-title": "Intergroup Toleration and Its Implications for Culturally Diverse Societies",
+            "volume": "13",
+            "author": "M Verkuyten",
+            "year": "2019",
+            "journal-title": "Social Issues and Policy Review"
+          },
+          {
+            "issue": "5",
+            "key": "ref143",
+            "first-page": "330",
+            "article-title": "Teacher's intention to accept online education: Extended TAM model",
+            "volume": "2",
+            "author": "M Waheed",
+            "year": "2010",
+            "journal-title": "Interdisciplinary Journal of Contemporary Research in Business"
+          },
+          {
+            "issue": "2",
+            "key": "ref144",
+            "doi-asserted-by": "crossref",
+            "first-page": "227",
+            "DOI": "10.1080/0958517970090208",
+            "article-title": "Issues in multicultural education",
+            "volume": "9",
+            "author": "R W Wilhelm",
+            "year": "1998",
+            "journal-title": "The Curriculum Journal"
+          },
+          {
+            "issue": "2",
+            "key": "ref145",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.60079/ahr.v1i2.181",
+            "article-title": "The Role of Multidisciplinary Approaches in Public Health Research: A Literature Review",
+            "volume": "1",
+            "author": "F D Yahya",
+            "year": "2023",
+            "journal-title": "Advances in Healthcare Research"
+          },
+          {
+            "key": "ref146",
+            "doi-asserted-by": "crossref",
+            "first-page": "201218",
+            "DOI": "10.1109/ACCESS.2020.3036336",
+            "article-title": "A Machine Learning-Based Recommender System for Improving Students Learning Experiences",
+            "volume": "8",
+            "author": "N Yanes",
+            "year": "2020",
+            "journal-title": "IEEE Access"
+          },
+          {
+            "issue": "4",
+            "key": "ref147",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.31039/ejohe.2021.4.49",
+            "article-title": "Artificial Intelligence and Machine Learning Applications in Education",
+            "volume": "2",
+            "author": "Y Yildirim",
+            "year": "2021",
+            "journal-title": "Eurasian Journal of Higher Education"
+          },
+          {
+            "key": "ref148",
+            "doi-asserted-by": "crossref",
+            "first-page": "74",
+            "DOI": "10.1016/j.ijer.2016.03.003",
+            "article-title": "Linking life satisfaction with school engagement of secondary students from diverse cultural backgrounds in Hong Kong",
+            "volume": "77",
+            "author": "C Y M Yuen",
+            "year": "2016",
+            "journal-title": "International Journal of Educational Research"
+          },
+          {
+            "key": "ref149",
+            "author": "X Zhai",
+            "year": "2022",
+            "journal-title": "Applying machine learning to automatically assess scientific"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              14
+            ]
+          ],
+          "date-time": "2026-08-14T21:03:14Z",
+          "timestamp": 1786741394000
+        },
+        "score": 18.873264,
+        "resource": {
+          "primary": {
+            "URL": "https://www.ssrn.com/abstract=4885996"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "references-count": 149,
+        "URL": "https://doi.org/10.2139/ssrn.4885996",
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T09:04:00Z",
+          "timestamp": 1774947840518,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "International Study Counselor",
+        "issue": "6",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  12,
+                  31
+                ]
+              ],
+              "date-time": "2024-12-31T00:00:00Z",
+              "timestamp": 1735603200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Am. J. Mach. Learn."
+        ],
+        "abstract": "<jats:p>Machine learning (ML) techniques have gained significant traction in enhancing educational outcomes by providing personalized learning experiences, predictive analytics, and improved assessment mechanisms. This article explores the various applications of machine learning in education, focusing on how these techniques improve student learning outcomes through adaptive learning platforms, intelligent tutoring systems, and data-driven decision-making. The article discusses several ML methods used in education, including supervised learning, unsupervised learning, and reinforcement learning. Furthermore, challenges such as data privacy, algorithmic bias, and the need for teacher training are also explored. By leveraging ML technologies, educators can better understand student behavior, optimize learning materials, and enhance overall learning environments.</jats:p>",
+        "DOI": "10.71465/ajml3057",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T08:00:56Z",
+          "timestamp": 1774944056000
+        },
+        "page": "1-10",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Machine Learning in Education: Enhancing Student Learning Outcomes"
+        ],
+        "prefix": "10.71465",
+        "volume": "5",
+        "author": [
+          {
+            "family": "Dr. Haruto Yamamoto",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "52415",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "American Journal of Machine Learning"
+        ],
+        "link": [
+          {
+            "URL": "https://www.australiansciencejournals.com/ml/article/download/3057/3385",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.australiansciencejournals.com/ml/article/download/3057/3385",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2026-03-31T08:00:56Z",
+          "timestamp": 1774944056000
+        },
+        "score": 18.84349,
+        "resource": {
+          "primary": {
+            "URL": "https://www.australiansciencejournals.com/ml/article/view/3057"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              31
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "6",
+          "published-online": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                31
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.71465/ajml3057",
+        "ISSN": [
+          "2689-0003"
+        ],
+        "issn-type": [
+          {
+            "value": "2689-0003",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              31
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 2,
+    "query": {
+      "start-index": 0,
+      "search-terms": "machine learning education"
+    }
+  }
+}

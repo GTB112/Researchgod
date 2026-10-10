@@ -1,0 +1,19 @@
+{
+  "db": "rgod.sqlite",
+  "contactEmail": "",
+  "llm": {
+    "screen": { "provider": "mistral", "model": "mistral-small-latest" },
+    "extract": { "provider": "mistral", "model": "mistral-medium-latest" },
+    "minIntervalMs": 1100,
+    "maxCallsPerRun": 300
+  },
+  "fetch": {
+    "minIntervalMs": 60000,
+    "perHostDailyCap": 25,
+    "dailyCap": 75,
+    "inbox": "inbox",
+    "pdfDir": "pdfs",
+    "fulltextDir": "fulltext"
+  },
+  "library": { "proxyPrefix": "" }
+}

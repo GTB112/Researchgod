@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Lin, Mei
+AU  - Haddad, Omar
+TI  - Adaptive tutoring systems and
+  feedback quality
+PY  - 2021/03/15/
+JO  - Computers & Education
+AB  - Adaptive tutoring systems use machine learning to personalize
+  feedback.
+KW  - tutoring
+KW  - feedback
+UR  - https://doi.org/10.9999/rgod.fixture.ris1
+LA  - eng
+ER  - 
